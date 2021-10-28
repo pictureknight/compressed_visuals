@@ -6,7 +6,7 @@ Tool to recreate your Compressed Visuals NFT from on-chain metadata
 
 1. Copy all the text from your NFT metadata
 
-2. Click on the button below to start the tool and wait for it to load
+2. Click on the "launch binder" button below to start the tool and wait for it to load
 
 3. In the left panel double-click on RECREATE.ipynb
 
