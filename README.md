@@ -12,7 +12,7 @@ Tool to recreate your Compressed Visuals NFT from on-chain metadata
 
 3. Press "SHIFT + ENTER" to run the notebook
 
-4. An empty text field will appear, paste your text into it, and press ENTER
+4. An empty text field will appear, paste your metadata into it, and press ENTER
 
 5. Wait a few seconds and you will find on the left panel a file ending with .png, right-click then download
 
