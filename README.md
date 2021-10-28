@@ -4,7 +4,7 @@ Tool to recreate your Compressed Visuals NFT from on-chain metadata
 
 ## Follow these steps
 
-1. From your NFT metadata, copy all the text contained in the 'data' field
+1. Copy all the text from your NFT metadata
 
 2. Click on the button below to start the tool and wait for it to load
 
@@ -14,7 +14,7 @@ Tool to recreate your Compressed Visuals NFT from on-chain metadata
 
 4. An empty text field will appear, paste your text into it, and press ENTER
 
-5. Wait a few seconds and you will find on the left panel a file named NFT.png, right-click then download
+5. Wait a few seconds and you will find on the left panel a file ending with .png, right-click then download
 
 
 
