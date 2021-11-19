@@ -2,19 +2,23 @@
 
 Tool to recreate your Compressed Visuals NFT from on-chain metadata
 
+For more info about the project, check out [compressedvisuals.io](https://compressedvisuals.io)
+
+
 ## Quick guide
 
 1. Find then copy all the transaction metadata corresponding to your NFT.
 
-2. Open Binder using the button below.
+2. Launch the binder below, then run RECREATE.ipynb
 
-3. Run the notebook. Paste the data once prompted.
+3. Paste the data once prompted.
 
 4. Once the notebook finishes computing, the PNG will be available on the left panel. 
 
+
 ## Detailed step-by-step guide
 
-1. Find the asset fingerprint of your NFT. This is visible on Tokhun.io for each NFT.
+1. Find the asset fingerprint of your NFT. This is visible on [Tokhun.io](https://tokhun.io) for each NFT.
 
 2. Search that asset fingerprint in a Cardano explorer, such as [cardanoscan.io](https://cardanoscan.io).
 
