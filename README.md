@@ -28,7 +28,7 @@ For more info about the project, check out [compressedvisuals.io](https://compre
 
 5. Copy all the text inside the popup that opens. This is the data defining your NFT.
 
-6. Click on the [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pictureknight/compressed_visuals/main) button below to start the tool and wait for it to load
+6. Click on the [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pictureknight/compressed_visuals/main) button to start the tool and wait for it to load
 
 7. In the left panel double-click on RECREATE.ipynb
 
