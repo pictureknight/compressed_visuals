@@ -16,7 +16,7 @@ Tool to recreate your Compressed Visuals NFT from on-chain metadata
 
 1. Find the asset fingerprint of your NFT. This is visible on Tokhun.io for each NFT.
 
-2. Search that asset fingerprint in a Cardano explorer, such as cardanoscan.io.
+2. Search that asset fingerprint in a Cardano explorer, such as [cardanoscan.io](https://cardanoscan.io).
 
 3. Navigate to the "Mint transactions" tab, then click on the Trx Hash.
 
