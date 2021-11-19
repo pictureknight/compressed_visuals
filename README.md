@@ -10,6 +10,8 @@ Tool to recreate your Compressed Visuals NFT from on-chain metadata
 
 3. Run the notebook. Paste the data once prompted.
 
+4. Once the notebook finishes computing, the PNG will be available on the left panel. 
+
 ## Detailed step-by-step guide
 
 1. Find the asset fingerprint of your NFT. This is visible on Tokhun.io for each NFT.
