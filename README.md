@@ -37,3 +37,10 @@ For more info about the project, check out [compressedvisuals.io](https://compre
 9. An empty text field will appear, paste your metadata into it, and press ENTER
 
 10. Wait a few seconds and you will find on the left panel a file ending with .png, right-click then download
+
+
+## Demo NFT
+
+If you want to try out this tool, before buying, you can find an example NFT [here](https://cardanoscan.io/transaction/c7b917d460f355c0962c2fe8f9a96d8a813ecd383149131d2fbee1e46164b75c?tab=metadata)
+
+Using this, you can start the process at step 4 of the detailed guide.
