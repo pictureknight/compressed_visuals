@@ -2,7 +2,15 @@
 
 Tool to recreate your Compressed Visuals NFT from on-chain metadata
 
-## Follow these steps
+## Quick guide
+
+1. Find then copy all the transaction metadata corresponding to your NFT.
+
+2. Open Binder using the button below.
+
+3. Run the notebook. Paste the data once prompted.
+
+## Detailed step-by-step guide
 
 1. Find the asset fingerprint of your NFT. This is visible on Tokhun.io for each NFT.
 
