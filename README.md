@@ -9,7 +9,7 @@ For more info about the project, check out [compressedvisuals.io](https://compre
 
 1. Find then copy all the transaction metadata corresponding to your NFT.
 
-2. Launch the binder below, then run RECREATE.ipynb
+2. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pictureknight/compressed_visuals/main), then run RECREATE.ipynb
 
 3. Paste the data once prompted.
 
@@ -28,7 +28,7 @@ For more info about the project, check out [compressedvisuals.io](https://compre
 
 5. Copy all the text inside the popup that opens. This is the data defining your NFT.
 
-6. Click on the "launch binder" button below to start the tool and wait for it to load
+6. Click on the [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pictureknight/compressed_visuals/main) button below to start the tool and wait for it to load
 
 7. In the left panel double-click on RECREATE.ipynb
 
@@ -37,9 +37,3 @@ For more info about the project, check out [compressedvisuals.io](https://compre
 9. An empty text field will appear, paste your metadata into it, and press ENTER
 
 10. Wait a few seconds and you will find on the left panel a file ending with .png, right-click then download
-
-
-
-
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pictureknight/compressed_visuals/main)
