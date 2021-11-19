@@ -4,17 +4,25 @@ Tool to recreate your Compressed Visuals NFT from on-chain metadata
 
 ## Follow these steps
 
-1. Copy all the text from your NFT metadata
+1. Find the asset fingerprint of your NFT. This is visible on Tokhun.io for each NFT.
 
-2. Click on the "launch binder" button below to start the tool and wait for it to load
+2. Search that asset fingerprint in a Cardano explorer, such as cardanoscan.io.
 
-3. In the left panel double-click on RECREATE.ipynb
+3. Navigate to the "Mint transactions" tab, then click on the Trx Hash.
 
-3. Press "SHIFT + ENTER" to run the notebook
+4. Navigate to Metadata tab, then open the "Value" element.
 
-4. An empty text field will appear, paste your metadata into it, and press ENTER
+5. Copy all the text inside the popup that opens. This is the data defining your NFT.
 
-5. Wait a few seconds and you will find on the left panel a file ending with .png, right-click then download
+6. Click on the "launch binder" button below to start the tool and wait for it to load
+
+7. In the left panel double-click on RECREATE.ipynb
+
+8. Press "SHIFT + ENTER" to run the notebook
+
+9. An empty text field will appear, paste your metadata into it, and press ENTER
+
+10. Wait a few seconds and you will find on the left panel a file ending with .png, right-click then download
 
 
 
