@@ -6,7 +6,7 @@ For more info about the project, check out [compressedvisuals.io](https://compre
 
 ## Demo NFT
 
-If you want to try out this tool, before buying, you can find an example NFT [here](https://cardanoscan.io/transaction/4ad4738771b0e8c4613a696f1058422beaa1f2898d254c8674df56c6b7a14ff3?tab=metadata)
+If you want to try out this tool, before buying, you can find an example NFT [here](https://cardanoscan.io/transaction/24fb1eff93629960183b529fd138442fb9b939cf2e73e4967e3d2fccee7aac92?tab=metadata)
 
 Using this, you can start the process at step 4 of the detailed guide.
 
