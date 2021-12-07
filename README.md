@@ -42,3 +42,8 @@ Using this, you can start the process at step 4 of the detailed guide.
 9. An empty text field will appear, paste your metadata into it, and press ENTER
 
 10. Wait a few seconds and you will find on the left panel a file ending with .png, right-click then download
+
+
+## Policy ID
+
+02dae9314902b9cdd92d7bd4a95b8898735e03d77d006f508a140fc4
